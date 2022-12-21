@@ -13,6 +13,12 @@ This repo is for:
 
 Tasker is an automation app for Android. It is by far the most powerful mobile automation tool, developed by @joaomgcd. We use it to automate all the things.
 
+- PHP Scripts
+
+We have a website hosting a few PHP scripts that are being frequently updated, again, they don't collect your data and are totally free to use. They're also pretty rapid: [tools.cylaris.org](https://tools.cylaris.org "tools.cylaris.org")
+
+Please excuse the format for now, I'll sort it, I promise.
+
 - Mobile Apps (.apk)
 
 Mobile Apps that do things that other mobile apps don't. These are way too cool for the app store. 
