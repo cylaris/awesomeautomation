@@ -50,7 +50,7 @@ Sadly, there are still many problems. Take a Linux host for instance, which do y
 
 This profile will lock your device as an Admin when device is flipped face down. You could be in a situation where anyone could force you to use FaceID/Fingerprint, but they have no way to force you to input your pin. Admin lock requires pin to unlock device.
 
-Further, most vulnerabilities that can bypass screen lock require the phone to be in 'semi-unlocked' state, meaning FaceID/Fingerprint is usable, in this state those are not possible.
+Further, most vulnerabilities that can bypass screen lock require the phone to be in 'semi-unlocked' state, meaning FaceID/Fingerprint is usable, in this fully locked state, those are not possible.
 
 ## Contributors
 - [Cam](https://sorry.wtf "Cam") :man_mechanic:	
